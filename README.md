@@ -29,7 +29,7 @@ A computer vision project that uses **Convolutional Neural Networks (CNN)** to c
 
 ## ⚙️ How to Run
 
-1. Open `Softdrink Classification.ipynb` in Google Colab.
+1. Open `Softdrink_Classification.ipynb` in Google Colab.
 2. Upload the dataset folders (`train/`, `test/`, etc.) containing softdrink images.
 3. Run the notebook to:
    - Preprocess and augment images
