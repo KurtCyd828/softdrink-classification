@@ -38,12 +38,6 @@ A computer vision project that uses **Convolutional Neural Networks (CNN)** to c
 
 ---
 
-## 🖼 Sample Output
-
-> *(Optional: Add screenshots or plots from training output)*
-
----
-
 ## 📂 Dataset
 
 Custom dataset of softdrink images, organized by brand folders (e.g., `/coke`, `/pepsi`, `/sprite`). May be manually collected or sourced from web scraping.
